@@ -1,0 +1,22 @@
+@charset "utf-8";
+body{
+    font: 16px;
+}
+
+header
+{
+    background-color:rgb(57, 62, 42)  ;
+    text-align: center;
+    }
+footer
+{
+       background-color: rgb(57, 62, 42) ;
+    text-align: center;
+
+}
+div
+{
+    text-align: center;
+    background-color: rgba(90, 20, 20, 0.678);
+}
+
